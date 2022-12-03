@@ -13,14 +13,13 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Pengzhi Yang</h2>
-        <p><a href="pengzhi1998:tyypz2590477658@gmail.com">tyypz2590477658@gmail.com</a></p>
+        <p><a href="pengzhi1998:P.Yang-4@student.tudelft.nl">P.Yang-4@student.tudelft.nl</a></p>
       </header>
     </section>
 
     <section className="blurb">
-      <h2>About</h2>
-      <p>Hi, I&apos;m Pengzhi, a big fan of robotics, AI and CS.
-        I am a <a href="https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science"> Tu Delft CS-AI</a> master student.
+      <h2>Greetings!</h2>
+      <p>I&apos;ve been always open to new things!
       </p>
       <ul className="actions">
         <li>
