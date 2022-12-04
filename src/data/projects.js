@@ -56,6 +56,15 @@ const data = [
       'Implementation for Active Neural Localization. ',
   },
   {
+    title: 'Robot Dynamics and Control',
+    subtitle: 'Robot Dynamics and Control',
+    // link: 'https://github.com/pengzhi1998/Localization-VizDoom',
+    image: '/images/projects/control.jpg',
+    date: '2022-10-31',
+    desc:
+      'RDC. ',
+  },
+  {
     title: 'PIPELINED CPU IMPLEMENTED ON FPGA',
     subtitle: 'PIPELINED CPU IMPLEMENTED ON FPGA',
     link: 'https://github.com/pengzhi1998/Deep-Pipelined-CPU-on-FPGA',
