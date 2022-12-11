@@ -28,9 +28,7 @@ const Stats = () => {
   }, [fetchData]);
 
   return (
-    <div>
-      <h3>Some stats about this site</h3>
-      <Table data={data} />
+    <div><Table data={data} />
     </div>
   );
 };

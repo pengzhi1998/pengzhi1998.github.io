@@ -26,6 +26,13 @@ const positions = [
       'Worked on applying reinforcement learning on quadruped robot to walk on various real-world surfaces with Domain Adaptation',
     ],
   },
+  {
+    company: 'Please press to check my detailed CV',
+    position: '<',
+    link: '/files/CV-Pengzhi_Yang.pdf',
+    points: [
+    ],
+  },
 ];
 
 export default positions;
