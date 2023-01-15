@@ -13,7 +13,7 @@ const Contact = lazy(() => import('./pages/Contact'));
 const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Projects = lazy(() => import('./pages/Projects'));
-const Resume = lazy(() => import('./pages/Resume'));
+const GeneralInfo = lazy(() => import('./pages/GeneralInfo'));
 const Stats = lazy(() => import('./pages/Stats'));
 
 const App = () => (
@@ -25,7 +25,7 @@ const App = () => (
         <Route path="/projects" component={Projects} />
         <Route path="/stats" component={Stats} />
         <Route path="/contact" component={Contact} />
-        <Route path="/resume" component={Resume} />
+        <Route path="/GeneralInfo" component={GeneralInfo} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>

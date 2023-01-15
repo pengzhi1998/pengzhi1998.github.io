@@ -20,7 +20,7 @@ const Index = () => (
       <p>
         I&apos;m Pengzhi, a big fan of robotics, AI and CS. I&apos;m currently a <a href="https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science"> Tu Delft CS-AI</a> master student. Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
+        <Link to="/GeneralInfo">GeneralInfo</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
