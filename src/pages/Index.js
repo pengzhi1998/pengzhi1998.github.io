@@ -10,7 +10,6 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">What do I believe in?</Link></h2>
           <p>
             To live is to risk it all -- Rick and Morty
           </p>
