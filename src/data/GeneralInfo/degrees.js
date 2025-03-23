@@ -6,10 +6,10 @@ const degrees = [
     year: 2024,
   },
   {
-    school: 'University of California, San Diego (UCSD)',
-    degree: 'M.S. Computer Science, CS75 (Interrupted due to US-visa ban)',
-    link: 'https://cse.ucsd.edu/',
-    year: 2021,
+    school: 'ETH Zurich',
+    degree: 'ETH Robotics Student Fellowship',
+    link: 'https://robotx.ethz.ch/education/robotics-student-fellowship/2023-Robotics-Student-Fellows.html',
+    year: 2023,
   },
   {
     school: 'University of California, Santa Barbara (UCSB)',
